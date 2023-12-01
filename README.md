@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aavash Upadhyaya</h1>
 <h3 align="center">A Software Developer, Fullstack Engineer with a passion for Front-end Development.</h3>
 
-- 📫 How to reach me **aavashupadhyaya2000@gmail.com**
+- 📫 Reach out to me on my email: **aavashupadhyaya2000@gmail.com**
 
 <h3 align="left">Connect with me on Linkedin: https://www.linkedin.com/in/aavash-upadhyaya-a41b03221/ </h3>
 <p align="left">
