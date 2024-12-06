@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aavash Upadhyaya</h1>
-<h3 align="center">A Software Developer, Fullstack Engineer with a passion for Front-end Development.</h3>
+<h3 align="center">A Software Developer, Fullstack Engineer with a passion for Artificial Intelligence, and Machine Learning.</h3>
 
 - 📫 Reach out to me on my email: **aavashupadhyaya2000@gmail.com**
 
